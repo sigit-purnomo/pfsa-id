@@ -1,5 +1,7 @@
 # PFSA-ID: An Annotated Indonesian Corpus and Baseline Model of Public Figures Statements Attributions
 
+![PFSA-ID: An Annotated Indonesian Corpus and Baseline Model of Public Figures Statements Attributions](https://github.com/sigit-purnomo/pfsa-id/blob/main/images/displaCy.png?raw=true)
+
 ## Purpose
 By far, the corpus for the quotation extraction and quotation attribution tasks in Indonesian is still limited in quantity and depth. This study aims to develop an Indonesian corpus of public figure statements attributions and a baseline model for attribution extraction, so it will contribute to fostering research in information extraction for the Indonesian language.
 
